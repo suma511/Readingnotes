@@ -36,9 +36,9 @@ we have to becareful to not use reserved words or keywords in declaring  also we
 it will be excuted from left to write and it will be applied according to the priority of the operation there is tow types of them logical & mathmatical operator 
 
 ##Expressions, Statements, and Blocks
-######Expressions :
+Expressions :
 When writing compound expressions, be explicit and indicate with parentheses which operators should be evaluated first. This practice makes code easier to read and to maintain.
-######Statements :
+Statements :
 there are some kinds of statements  
 assignment statement
 aValue = 8933.234;
@@ -48,7 +48,7 @@ method invocation statement
 System.out.println("Hello World!");
 object creation statement
 Bicycle myBike = new Bicycle();
-######Blocks
+Blocks
 A block is a group of zero or more statements between balanced braces and can be used anywhere a single statement is allowed.
 
 ##If-Then Statements
